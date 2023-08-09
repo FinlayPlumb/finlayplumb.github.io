@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Finlay Plumb"
 title_separator          : "-"
 name                     : &name "Finlay Plumb"
-description              : &description "personal description"
+description              : &description "Undergraduate in Data Science at the University of Warwick"
 url                      : https://finlayplumb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "finlayplumb/finlayplumb.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -85,8 +85,8 @@ author:
   bio              : "Undergraduate in Data Science at the University of Warwick"
   location         : "Warwick, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "finlayplumb"
   orcid            : 
   pinterest        :
   soundcloud       :
